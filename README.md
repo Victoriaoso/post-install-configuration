@@ -78,9 +78,11 @@ So to configure a new  SLA Plans, go to Admin panel >. manage> SLA plan. I creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/whQxugJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Basically, help topics is more like grouping issues or tickets that have simialr or related problem together.
+Tickets can be group according to department issues such as missing equipments, Password reset, Business critical outage and so on. 
+So to configure Help Topics, I created new help topics through Admin panel > Manage > Help Topics. New help topics created includes;
+Business Critical Outage, Password Reset, Personal Computer Issues and Equipment Request.</p>
 <br />
