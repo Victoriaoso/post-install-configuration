@@ -61,7 +61,7 @@ granted permissions and placed in teams (Level II and III support) respectively.
 <br />
 
 <p>
-<img src="http://localhost/osTicket/scp/users.php" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://localhost/osTicket/scp/users.php" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Users are customers or owners of the ticket in the help desk. So I created users through the agent panel > Users > User Directory.
