@@ -69,11 +69,12 @@ I used Jane Smith admin account to create the new users (Ken Ken and Ope Ope)</p
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6LqByKP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+SLA Plan (Service Level Agreements) in this opinion is like time or period set in place for tickets resolved or closed. 
+It is alloted time or amount plan passed for the completion on the task according to tickets' priorities.
+So to configure a new  SLA Plans, go to Admin panel >. manage> SLA plan. I created Sev-A (1 hour), Sev-B (4 hours) and Sev-C (8hours) in this session. </p>
 <br />
 
 <p>
